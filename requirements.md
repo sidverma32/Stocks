@@ -1,3 +1,4 @@
+
 - Show live stock prices in the form of table/graphs.
 - data is coming from a websocket (ws://stocks.mnet.website)
   - format: [ [ name, price], [ name, price] … ]
