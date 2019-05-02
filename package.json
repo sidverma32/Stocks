@@ -1,0 +1,39 @@
+{
+  "name": "stocks",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://sidverm32.github.io/stocks",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "bulma-pageloader": "^2.1.0",
+    "chart.js": "^2.7.3",
+    "chartjs-plugin-zoom": "^0.6.6",
+    "gh-pages": "^2.0.1",
+    "react": "^16.6.3",
+    "react-chartjs-2": "^2.7.4",
+    "react-detect-offline": "^2.1.2",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
+    "react-sparkline": "^2.0.0",
+    "react-sparklines": "^1.7.0",
+    "react-timeago": "^4.1.9",
+    "reactbulma": "3.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
