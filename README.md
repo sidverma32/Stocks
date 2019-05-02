@@ -1,3 +1,4 @@
+
 A demo application built in React.
 
 Deployed here: https://sidverma32.github.io/stocks
