@@ -3,7 +3,7 @@
   "name": "stocks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sidverm32.github.io/stocks",
+  "homepage": "http://sid-stock-test.herokuapp.com/",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "bulma-pageloader": "^2.1.0",
