@@ -1,9 +1,9 @@
 
 A demo application built in React.
 
-Deployed here: https://sidverma32.github.io/stocks
+Deployed here: http://sid-stock-test.herokuapp.com/
 
-(If you are somehow not able to allow loading unsafe scripts from your browser(Especially on mobile phones), open this link instead: http://stocksdemo.herokuapp.com)
+(If you are somehow not able to allow loading unsafe scripts from your browser(Especially on mobile phones), open this link instead: http://sid-stock-test.herokuapp.com/)
 
 What it does: Show real time stock market data in the form of table and graphs
 
